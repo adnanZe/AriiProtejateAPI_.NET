@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PPRqxl2UVhBO6no58KPwupbWHpyrXTIBYHDY9la97SO8cZP34jxwo7bdxLG36qtw7QRh2tgwfL7ncdtL3a52Hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AZECHERI\\Desktop\\Stefanini\\Presentations\\AriiProtejateAPI_.Net\\AriiProtejateAPI_.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AZECHERI\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\AZECHERI\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AZECHERI\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\AZECHERI\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\AZECHERI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\AZECHERI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

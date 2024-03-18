@@ -1,0 +1,6 @@
+@AriiProtejateAPI_.Net_HostAddress = http://localhost:5058
+
+GET {{AriiProtejateAPI_.Net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
